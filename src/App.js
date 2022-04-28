@@ -10,6 +10,7 @@ function App() {
           <NavbarBrand href="/">Ristorante Con Fusion</NavbarBrand>
         </div>
       </Navbar>
+
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
